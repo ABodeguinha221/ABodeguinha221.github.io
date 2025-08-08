@@ -1,7 +1,8 @@
 # A Bodeguinha 
    CARDÁPIO 
 
-     𝐏𝐎𝐑𝐂̧𝐀̃𝐎 𝐒𝐀𝐋𝐆𝐀𝐃𝐎
+     𝙿𝙾𝚁𝙲̧𝙰̃𝙾 𝚂𝙰𝙻𝙶𝙰𝙳𝙾
+
 . Coxinha 
 
 . Enroladinho
@@ -11,7 +12,8 @@
 10un = 20,00 / 5un = 10,00 
          
 
-          𝐄𝐒𝐏𝐄𝐂𝐈𝐀𝐈𝐒
+         𝙴𝚂𝙿𝙴𝙲𝙸𝙰𝙸𝚂
+
 . Bolinho de Feijoada 
 
 . Bolinho de Bobó 
@@ -28,7 +30,8 @@
 
 
 
-        𝐂𝐀𝐋𝐃𝐎𝐒
+        𝙲𝙰𝙻𝙳𝙾𝚂
+
 . Caldo de Kenga   15,00
 
 . Caldo de Feijão   15,00
@@ -42,7 +45,8 @@
 
 
 
-        𝐏𝐎𝐑𝐂̧𝐎̃𝐄𝐒
+        𝙿𝙾𝚁𝙲̧𝙾̃𝙴𝚂
+
 . Carne com Batata / Mandioca        50,00
 
 . Calabresa acebolada com Batata  30,00
@@ -52,7 +56,8 @@
 . Batata Frita                                         20,00
 
 
-     𝐄𝐌𝐏𝐀𝐃𝐀 
+     𝙴𝙼𝙿𝙰𝙳𝙰
+
 . Camarão  7,00 
 
 . Frango      5,00
