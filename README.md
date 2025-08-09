@@ -49,7 +49,7 @@
 
 . Dobradinha          15,00
 
-. Buchada               20,00
+. Buchada               25,00 
 
 
 
