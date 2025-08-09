@@ -16,17 +16,26 @@
 
 . Bolinho de Feijoada 
 
-. Bolinho de Bobó 
-
 . Bolinho de Mandioca 
 
-. Risole de Camarão
+. Kibe 
+
+ 10un = 25,00 / 5un = 14,00  
 
 . Croquete de camarão seco 
 
-12un = 30,00 / 6un= 15,00
+. Risole de Camarão 
 
-. Kibe 10un = 25,00
+. Bolinho de Bobó 
+
+ 12un = 30,00 / 6un = 16,00
+
+
+
+
+
+
+
 
 
 
